@@ -1,0 +1,103 @@
+.nav {
+    display: inline;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #2c3e50;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+
+section {
+    padding: 40px;
+}
+
+.about-image img {
+    max-width: 30%;
+    height: auto;
+}
+
+.button {
+    padding: 2%;
+    background-color: #e74c3c;
+    border: 2px dotted;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #c0392b;
+}
+
+
+.project {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+#contact {
+    background-color: #3498db;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    padding: 2%;
+    background-color: #bd6c09; 
+    border: 2px dotted;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: red; 
+} 
+
+
+
+
+
+
